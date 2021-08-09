@@ -1,4 +1,4 @@
-module github.com/valyala/fasthttp
+module github.com/5ky1s61ue/test_fasthttp
 
 go 1.12
 
